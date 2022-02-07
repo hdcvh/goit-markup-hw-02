@@ -1,4 +1,9 @@
-{
-    body color: fff;
-    background-color: teal;
+body {
+    font-family: 'Open Sans', sans-serif;
 }
+
+.list {
+    list-style: none;
+}
+
+.link {}
